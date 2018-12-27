@@ -17,6 +17,10 @@
         android:icon="@mipmap/baseline_supervised_user_circle_white_18"
         android:onClick="onAboutUs"
         android:title="@string/about_us" />
-
+    <item
+        android:id="@+id/change_city"
+        android:orderInCategory="1"
+        android:title="@string/change_city"
+        app:showAsAction="never"/>
 
 </menu>
