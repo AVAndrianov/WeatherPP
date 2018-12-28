@@ -1,0 +1,16 @@
+<resources>
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+    <string name="nav_header_title">Погода</string>
+    <string name="nav_header_subtitle">a.v.andrianov33@gmail.com</string>
+    <string name="nav_header_desc">Заголовок навигации</string>
+    <string name="action_settings">Настройки</string>
+    <string name="app_name">Погода</string>
+    <string name="options">Настройки</string>
+    <string name="about_us">О нас</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Вы попали в раздел - картинки</string>
+    <string name="nav_camera">Камера</string>
+    <string name="change_city">Выбрать город</string>
+</resources>
